@@ -1,1 +1,1 @@
-AmazonSimCopy
+AmazonSim
